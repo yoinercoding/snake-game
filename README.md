@@ -1,2 +1,5 @@
-# snake-game
-Snake Game with Python and Pygame
+# Snake-game
+
+Saludos :D
+
+[Yoiner Rafael Bello Fajardo](https://www.linkedin.com/in/yoinerbello/)
